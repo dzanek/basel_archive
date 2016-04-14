@@ -1,3 +1,4 @@
+.gitignore
 genGenes.py~
 new_optimization
 pcr_noise.py~
